@@ -1,3 +1,6 @@
+# Cloned from Zhongdao/Towards-Realtime-MOT
+# Modifed to run with Windows and Python 3.7
+
 # Towards-Realtime-MOT
 **NEWS:** 
 - **[2019.10.11]** Training and evaluation data uploaded! Please see [DATASET_ZOO.md](https://github.com/Zhongdao/Towards-Realtime-MOT/blob/master/DATASET_ZOO.md) for details.
