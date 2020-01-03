@@ -1,5 +1,5 @@
 # Cloned from [Zhongdao/Towards-Realtime-MOT](https://github.com/Zhongdao/Towards-Realtime-MOT)
-# Modifed to run with Windows and Python 3.7
+Modifed to run with Windows and Python 3.7, pytorch 1.3.0, cuda 10.1
 
 # Towards-Realtime-MOT
 **NEWS:** 
